@@ -4,6 +4,7 @@ public class KalkulatorClass {
 
     public void kalkulator() {
 
+        //Variabel yang digunakan
         int angkaPertama;
         int angkaKedua;
         Scanner inputUser = new Scanner(System.in);
