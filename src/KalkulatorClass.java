@@ -20,7 +20,7 @@ public class KalkulatorClass {
         System.out.println("\n Pilih salah satu karakter operasi hitung (+,-,*,/) : ");
         String operasi = inputUser.next();
 
-
+        //Function Switch case
         switch (operasi) {
             case "+":
                 System.out.println(" Hasil: "+ ( angkaPertama + angkaKedua ));
